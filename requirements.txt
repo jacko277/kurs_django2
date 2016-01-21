@@ -1,0 +1,14 @@
+Django==1.7.1
+argparse==1.4.0
+chardet==2.3.0
+colorama==0.3.2
+html5lib==0.999
+pbr==1.8.1
+requests==2.4.3
+six==1.10.0
+stevedore==1.10.0
+urllib3==1.9.1
+virtualenv==1.11.6
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.7.1
+wheel==0.24.0
