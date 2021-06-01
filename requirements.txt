@@ -7,7 +7,7 @@ pbr==1.8.1
 requests==2.4.3
 six==1.10.0
 stevedore==1.10.0
-urllib3==1.9.1
+urllib3==1.26.5
 virtualenv==1.11.6
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.1
